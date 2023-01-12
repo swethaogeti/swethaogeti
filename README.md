@@ -27,11 +27,11 @@ merhaba!👋 I can understand Turkish!</code>**
 
 
 <hr>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swethaogeti&show_icons=true&locale=en&layout=compact" alt="swethaogeti" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swethaogeti&show_icons=true&locale=en&layout=compact" alt="swethaogeti" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swethaogeti&show_icons=true&locale=en" alt="swethaogeti" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swethaogeti &show_icons=true&locale=en" alt="swethaogeti" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swethaogeti&" alt="swethaogeti" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swethaogeti &" alt="swethaogeti" /></p>
 
-
+ -->
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
