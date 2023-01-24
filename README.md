@@ -35,3 +35,4 @@ merhaba!👋 I can understand Turkish!</code>**
 
  -->
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
+[![GitHub Streak](https://streak-stats.demolab.com?user=swethaogeti)](https://git.io/streak-stats)
